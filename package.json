@@ -41,8 +41,8 @@
     "prop-types": "15.x"
   },
   "peerDependencies": {
-    "react": "16.x",
-    "react-dom": "16.x",
+    "react": "18.x",
+    "react-dom": "18.x",
     "react-native": ">= 0.56 < 1"
   },
   "devDependencies": {
